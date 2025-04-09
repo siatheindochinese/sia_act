@@ -1,5 +1,10 @@
 # Official PyTorch Implementation of SiA
 
+<div align="center">
+    <a href="https://siatheindochinese.github.io/sia_act_page/"><strong>Project Page</strong></a> |
+    <a href="https://arxiv.org/pdf/2504.03096"><strong>Paper</strong></a> 
+</div>
+
 Official PyTorch implementation of SiA, our model from **[Scaling Open-Vocabulary Action Detection](https://arxiv.org/abs/2504.03096)**. If you use this code for your research, please cite our paper.
 
 ## To-do
